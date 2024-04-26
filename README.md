@@ -1,3 +1,3 @@
-# FSD
-FSD practices and mini projects
+# test
+my first git experience
 
