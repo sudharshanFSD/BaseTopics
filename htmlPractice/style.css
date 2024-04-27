@@ -1,0 +1,15 @@
+input:focus{
+    outline:rgb(0, 255, 64) solid 2px;
+}
+
+a:link{
+    color:rgb(0, 255, 183);
+}
+
+a:visited{
+    color: brown;
+}
+
+button:active{
+    background-color:coral;
+}
