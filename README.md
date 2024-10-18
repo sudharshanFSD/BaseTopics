@@ -1,3 +1,2 @@
-# test
-my first git experience
-
+# Basics
+All basic topics worked out
