@@ -1,0 +1,23 @@
+.maindiv{
+    background-color: black;
+    color:blueviolet;
+    height:60vh;
+}
+
+.elements{
+    position:absolute;
+    left:8rem;
+    display: flex;
+}
+
+.home,.about,.achievements{
+    padding:5px 10px 5px 2px ;
+}
+
+.titleContent{
+    height:45vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}

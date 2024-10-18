@@ -1,0 +1,153 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    width:100vw
+}
+
+.home{
+    position:relative;
+    left:8rem;
+    color: aliceblue;
+}
+.about{
+    color: aliceblue;
+    position:relative;
+    left:9rem;
+}
+
+.achievements{
+    color: aliceblue;
+    position: relative;
+    left:10rem;
+}
+
+header{
+    background-color: black;
+    position:static;
+    height:50vh;
+    width:100vw;
+}
+   
+
+.inelements{
+    color:rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    position: relative;
+    top:9rem;
+    
+} 
+
+main{
+    background-color:gray;
+}
+
+.content{
+    color: rgb(0, 0, 0);
+    position:relative;
+    width:40ch;
+    left:16rem;
+    font-size: 12px;
+}
+
+.Picture{
+    background-color: bisque;
+    
+}
+
+.push{
+    position:relative;
+    top:10em;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.break{
+    background-color: black;
+    height:8rem;
+    width:100vw;
+    position:relative;
+    top:13rem;
+}
+
+.qoutes{
+    color:aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top:40%;
+}
+
+.awards{
+    text-align: center;
+    position: relative;
+    max-width:550px;  
+}
+
+.line-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+  
+.line {
+    flex: 1;
+    height: 1px;
+    background-color: black;
+} 
+
+.text {
+    margin: 0 10px;
+}
+
+.goldMedal{
+    border: 1px solid black;
+    width:20rem;
+    height:8rem;
+}
+
+.padmaBhushan{
+    border: 1px solid black;
+    width:20rem;
+    height:8rem;
+}
+
+.nationalPoet{
+    border: 1px solid black;
+    width:20rem;
+    height:8rem;
+    
+}
+
+.ekusheyPadak{
+    border: 1px solid black;
+    width:20rem;
+    height:8rem;
+    
+}
+
+.totalAwards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:16rem;
+    
+}
+
+.heads,.year,.details{
+    padding: 5px;
+}
